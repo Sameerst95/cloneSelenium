@@ -1,0 +1,35 @@
+Verify if we are able to retrieve the details of the employees using the following endpoint - https://dummy.restapiexample.com/api/v1/employees
+
+Verify if we can retrieve the details of a Single Employee using the following endpoint - https://dummy.restapiexample.com/api/v1/employee/1
+
+Test if we are able to create a record using the following endpoint - https://dummy.restapiexample.com/api/v1/create
+Payload - name: XYZ, salary: 25000, age: 25
+
+Test if a record can be updated using the following endpoint - https://dummy.restapiexample.com/api/v1/update/21/
+Payload - name: ABC
+
+Test if a record can be deleted using the following endpoint - https://dummy.restapiexample.com/api/v1/delete/2/
+
+Retrieve all the products using - https://fakestoreapi.com/products
+
+Retrieve a Single Product - https://fakestoreapi.com/products/1
+
+Retrieve only 5 Products - https://fakestoreapi.com/products?limit=5
+
+Retrieve after sorting - https://fakestoreapi.com/products?sort=desc
+
+Retrieve Products from a Specific Category - https://fakestoreapi.com/products/category/jewelery
+
+Add new product - https://fakestoreapi.com/products
+
+Update a product - https://fakestoreapi.com/products/7
+
+Delete a product - https://fakestoreapi.com/products/6
+
+Visit the Website for Payload details - https://fakestoreapi.com/docs
+
+Note: Try with different Query Parameters and Payloads for all the above endpoints.
+
+Do verify the Status codes and make sure to check the JSON response thoroughly.
+
+Raise a JIRA if any of the above endpoints are not working as per the requirements.

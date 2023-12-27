@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Methods">
+    <test name="Methods">
+        <classes>
+            <class name="TestNG.example">
+                <methods>
+<!--                    <include name="d"></include>-->
+<!--                    <include name="e"></include>-->
+                    <exclude name="c"></exclude>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

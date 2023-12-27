@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TC002">
+    <test name="TC002">
+        <classes>
+            <class name="Framework.testCases.TC002_openYouTubeAndSearch"/>
+        </classes>
+    </test>
+</suite>

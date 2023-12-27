@@ -1,0 +1,3 @@
+Maven - https://maven.apache.org/download.cgi
+
+Unicode Table - https://www.ssec.wisc.edu/~tomw/java/unicode.html

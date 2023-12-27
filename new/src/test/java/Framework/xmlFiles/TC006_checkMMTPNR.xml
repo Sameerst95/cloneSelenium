@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TC006">
+    <test name="TC006">
+        <classes>
+            <class name="Framework.testCases.TC006_checkMMTPNR"/>
+        </classes>
+    </test>
+</suite>
